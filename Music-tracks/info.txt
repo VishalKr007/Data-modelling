@@ -1,0 +1,2 @@
+1. without on clause it will gives all possible combinatios of title,name with genre_id and id.
+refer to ss
